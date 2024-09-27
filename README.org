@@ -1,0 +1,7 @@
+* windows-dotfiles
+
+** Installation
+
+#+begin_src posh
+. .\bootstrap.ps1
+#+end_src

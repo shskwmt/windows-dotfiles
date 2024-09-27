@@ -1,0 +1,7 @@
+[user]
+	name = shskwmt
+	email = shskwmt@outlook.jp
+[credential "helperselector"]
+	selected = manager
+[core]
+	autocrlf = input
