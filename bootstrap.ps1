@@ -12,7 +12,7 @@ scoop install git openssh grep ripgrep gh make findutils fd msys2
 scoop install Noto-NF-Mono NerdFontsSymbolsOnly
 
 # programming
-scoop install emacs terraform go ruby
+scoop install emacs terraform go ruby dbeaver nvm
 
 # install gopls
 go install golang.org/x/tools/gopls@latest
