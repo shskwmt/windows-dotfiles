@@ -8,6 +8,9 @@ scoop install ollama anaconda3
 # cli tools
 scoop install git openssh grep ripgrep gh make findutils fd msys2
 
+# gui tools
+scoop install powertoys
+
 # font
 scoop install Noto-NF-Mono NerdFontsSymbolsOnly
 
