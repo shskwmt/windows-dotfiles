@@ -2,6 +2,10 @@
 scoop bucket add extras
 scoop bucket add nerd-fonts
 
+# upgrade packages
+scoop update
+scoop update *
+
 # data science
 scoop install ollama
 
