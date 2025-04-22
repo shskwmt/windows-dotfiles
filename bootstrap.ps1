@@ -6,7 +6,7 @@ scoop bucket add nerd-fonts
 scoop install ollama
 
 # cli tools
-scoop install git openssh grep ripgrep gh make findutils fd msys2
+scoop install git openssh grep ripgrep gh make findutils fd msys2 diffutils
 
 # font
 scoop install Noto-NF-Mono NerdFontsSymbolsOnly
