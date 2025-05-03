@@ -7,10 +7,13 @@ scoop update
 scoop update *
 
 # data science
-scoop install ollama
+scoop install ollama anaconda3
 
 # cli tools
 scoop install git openssh grep ripgrep gh make findutils fd msys2 diffutils
+
+# gcloud
+scoop install gcloud cloud-sql-proxy
 
 # font
 scoop install Noto-NF-Mono NerdFontsSymbolsOnly
