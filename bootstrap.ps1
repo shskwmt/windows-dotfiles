@@ -6,6 +6,9 @@ scoop bucket add nerd-fonts
 scoop update
 scoop update *
 
+# utility tools
+scoop install powertoys
+
 # data science
 scoop install ollama anaconda3
 
