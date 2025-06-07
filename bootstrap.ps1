@@ -13,7 +13,7 @@ scoop install powertoys
 scoop install ollama anaconda3
 
 # cli tools
-scoop install git openssh grep ripgrep gh make findutils fd msys2 diffutils
+scoop install git openssh grep ripgrep gh make diffutils
 
 # gcloud
 scoop install gcloud cloud-sql-proxy
