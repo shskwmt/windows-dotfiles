@@ -29,6 +29,7 @@ go install golang.org/x/tools/gopls@latest
 
 # install ruby-lsp
 ridk install 3
+ridk enable
 gem install ruby-lsp
 
 # Copy .gitconfig
