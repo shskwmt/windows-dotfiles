@@ -9,11 +9,8 @@ scoop update *
 # utility tools
 scoop install powertoys
 
-# data science
-scoop install ollama anaconda3
-
 # cli tools
-scoop install git openssh grep ripgrep gh make diffutils
+scoop install git openssh grep ripgrep gh make msys2 diffutils
 
 # gcloud
 scoop install gcloud cloud-sql-proxy
@@ -22,7 +19,7 @@ scoop install gcloud cloud-sql-proxy
 scoop install Noto-NF-Mono NerdFontsSymbolsOnly
 
 # programming
-scoop install emacs terraform go ruby python dbeaver nvm
+scoop install emacs terraform go ruby python dbeaver nvm postgresql
 
 # install gopls
 go install golang.org/x/tools/gopls@latest
