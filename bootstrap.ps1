@@ -6,9 +6,6 @@ scoop bucket add nerd-fonts
 scoop update
 scoop update *
 
-# utility tools
-scoop install powertoys
-
 # cli tools
 scoop install git openssh grep ripgrep gh make msys2 diffutils
 
@@ -19,7 +16,7 @@ scoop install gcloud cloud-sql-proxy
 scoop install Noto-NF-Mono NerdFontsSymbolsOnly
 
 # programming
-scoop install emacs terraform go ruby python dbeaver nvm postgresql
+scoop install emacs go ruby python dbeaver nvm postgresql
 
 # install gopls
 go install golang.org/x/tools/gopls@latest
