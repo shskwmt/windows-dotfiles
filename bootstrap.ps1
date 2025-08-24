@@ -7,7 +7,7 @@ scoop update
 scoop update *
 
 # cli tools
-scoop install git openssh grep ripgrep gh make msys2 diffutils
+scoop install git openssh grep ripgrep make msys2 diffutils
 
 # gcloud
 scoop install gcloud cloud-sql-proxy
@@ -16,15 +16,7 @@ scoop install gcloud cloud-sql-proxy
 scoop install Noto-NF-Mono NerdFontsSymbolsOnly
 
 # programming
-scoop install emacs go ruby python dbeaver nvm postgresql
-
-# install gopls
-go install golang.org/x/tools/gopls@latest
-
-# install ruby-lsp
-ridk install 3
-ridk enable
-gem install ruby-lsp
+scoop install emacs dbeaver postgresql
 
 # Copy .gitconfig
 Copy-Item -Path ./.gitconfig -Destination ~/
