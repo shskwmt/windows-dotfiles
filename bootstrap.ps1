@@ -8,7 +8,7 @@ scoop update
 scoop update *
 
 # cli tools
-scoop install git openssh grep ripgrep make msys2 diffutils findutils
+scoop install git gh openssh grep ripgrep make msys2 diffutils findutils
 
 # gcloud
 scoop install gcloud cloud-sql-proxy
