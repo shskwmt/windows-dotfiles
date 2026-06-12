@@ -10,8 +10,8 @@ scoop update *
 # cli tools
 scoop install git gh openssh grep ripgrep make msys2 diffutils findutils
 
-# docker
-scoop install rancher-desktop
+# docker / k8s
+scoop install rancher-desktop kustomize mkcert
 
 # gcloud
 scoop install gcloud cloud-sql-proxy
