@@ -20,7 +20,7 @@ scoop install gcloud cloud-sql-proxy
 scoop install Noto-NF-Mono NerdFontsSymbolsOnly
 
 # programming
-scoop install emacs postgresql python312 nvm rustup
+scoop install emacs postgresql python312 nvm rustup r rstudio
 
 # Copy .gitconfig
 Copy-Item -Path ./.gitconfig -Destination ~/
