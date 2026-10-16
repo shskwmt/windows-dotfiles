@@ -8,7 +8,7 @@ scoop update
 scoop update *
 
 # cli tools
-scoop install git gh openssh grep ripgrep make msys2 diffutils findutils
+scoop install git gh openssh grep ripgrep make msys2 diffutils findutils ollama
 
 # docker / k8s
 scoop install rancher-desktop kustomize mkcert
