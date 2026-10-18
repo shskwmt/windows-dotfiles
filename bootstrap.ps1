@@ -8,7 +8,7 @@ scoop update
 scoop update *
 
 # cli tools
-scoop install git gh openssh grep ripgrep make msys2 diffutils findutils ollama
+scoop install git gh openssh grep ripgrep make msys2 diffutils findutils
 
 # docker / k8s
 scoop install rancher-desktop kustomize mkcert
@@ -20,7 +20,7 @@ scoop install gcloud cloud-sql-proxy
 scoop install Noto-NF-Mono NerdFontsSymbolsOnly
 
 # programming
-scoop install emacs postgresql python312 nvm rustup r rstudio
+scoop install emacs postgresql python312 nvm rustup rstudio
 
 # Copy .gitconfig
 Copy-Item -Path ./.gitconfig -Destination ~/
